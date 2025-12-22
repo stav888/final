@@ -73,6 +73,6 @@ Decision Tree בודד רגיש לשינויים קטנים בנתונים וע�
 - MSE (Mean Squared Error)  
 - RMSE (Root Mean Squared Error)  
 - MAE (Mean Absolute Error)  
-- R² (Coefficient of Determination)
+- R² 
 
 ---
