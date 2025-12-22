@@ -1,4 +1,4 @@
-# Decision Tree
+# Decision Tree - תשובות
 
 האם מודל Decision Tree פותר בעיית קלסיפיקציה, רגרסיה או גם וגם?
 
