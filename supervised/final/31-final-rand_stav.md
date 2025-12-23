@@ -88,6 +88,7 @@ Random Forest הרבה יותר יציב כי הוא בנוי ממאות עצי�
 - MAE (Mean Absolute Error)  
 - R²
 
-בנוסף - ניתן להיעזר ב-OOB Score/Error כמדד פנימי טוב להערכת הכללה, ללא צורך ב-validation set נפרד.
+ניתן להיעזר ב-OOB Score/Error כמדד פנימי טוב להערכת הכללה, ללא צורך ב-validation set נפרד.
+
 
 ---
