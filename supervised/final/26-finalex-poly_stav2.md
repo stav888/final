@@ -1,4 +1,4 @@
-# Polynomial Regression – 
+# Polynomial Regression – תשובות
 ---
 
 האם המודל פותר בעיית קלסיפיקציה, רגרסיה או גם וגם?
