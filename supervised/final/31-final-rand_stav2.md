@@ -79,7 +79,4 @@ n_estimators, max_depth, min_samples_split, min_samples_leaf, max_features, boot
 יש לשלוח את הפתרון למייל:
 📧 [pythonai200425+supfinal@gmail.com](mailto:pythonai200425+supfinal@gmail.com)
 
-**תשובה:**  
-בוצע / אשלח למייל לפי ההנחיה.
-
 ---
