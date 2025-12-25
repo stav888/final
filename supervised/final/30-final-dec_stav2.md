@@ -81,7 +81,7 @@ max_depth, min_samples_split, min_samples_leaf, max_features, criterion (gini ב
 אילו מדדי ביצוע מתאימים להערכת מודל Decision Tree בקלסיפיקציה וברגרסיה?
 
 **תשובה:**  
-בקלסיפיקציה: Accuracy, Precision, Recall, F1, ROC-AUC, Confusion Matrix.  
+בקלסיפיקציה: Accuracy, Precision, Recall, F1, Confusion Matrix.  
 ברגרסיה: MSE, RMSE, MAE, R².
 
 ---
