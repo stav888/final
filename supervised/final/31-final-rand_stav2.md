@@ -72,7 +72,7 @@ n_estimators, max_depth, min_samples_split, min_samples_leaf, max_features, boot
 
 **תשובה:**  
 בקלסיפיקציה: Accuracy, Precision, Recall, F1, Confusion Matrix.  
-ברגרסיה: MSE, RMSE, MAE, R².
+ברגרסיה: MSE, MAE, R².
 
 ---
 
